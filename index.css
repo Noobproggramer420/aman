@@ -1,0 +1,145 @@
+.top-image img {
+
+   width: 100%;
+   height: 100%;
+   
+   filter: blur(4px);
+filter: brightness(60%);
+  }
+    
+
+
+
+
+.centered {
+     
+      font-size: 45px;
+      text-align: center;
+      position: absolute;
+      top: 37%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: azure;
+      
+    }
+.small{
+
+    font-size: 25px;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: azure;
+    text-align: center;
+   
+}
+
+.link{
+
+background-color: rgb(240, 148, 44);
+border-radius: 2px;
+position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+a:link {
+    color: aliceblue;
+    text-decoration: none ;
+}
+
+
+.middle{
+
+text-align: center;
+
+padding-top: 20px ;
+
+}
+
+ .another{font-size: 45px;} 
+ 
+ 
+  
+
+
+ .next{
+
+    
+    text-align:center;
+   font-size: 20px ;
+ }
+    
+.taka{
+
+font-size: 30px;
+padding-top: 20px;
+color: rgb(245, 101, 72);
+
+}
+
+.linktwo{
+
+    background: coral;
+    border-radius: 2px;
+}
+
+.jim{
+
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+
+
+    
+
+    .ok{
+
+        display: flex;
+        padding-top: 15%;
+    }
+
+.firstpic img{
+
+    max-width: 60%;
+}
+
+    
+
+    .ha img {
+
+        width: 60%;
+    }
+
+
+
+.bye{
+
+    display: flex;
+    padding-top: 20%;
+}
+
+
+.lorem{
+
+    margin-left:10%;
+
+}
+
+.tonmoy{
+
+margin-right: 25%;
+
+}
+
+
+.pranto{
+
+    
+    padding-top: 5%;
+    text-align: center;
+}
